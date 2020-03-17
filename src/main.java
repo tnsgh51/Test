@@ -5,7 +5,9 @@ public class main {
 		int a = 10;
 		int b = 20;
 
-		System.out.println(a+b);
+		//2020. 03. 17 ¼öÁ¤ SunHo
+		int c = a + b;
+		System.out.println(c);
 	}
 
 }
